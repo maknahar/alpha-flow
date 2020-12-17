@@ -1,4 +1,4 @@
-#How To Run
+# How To Run
 
 - Run `docker-compose build`
 - Run `docker-compose up`
